@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "__83-[HttpApi uploadFoodByFoodId:name:Description:price:status:image:Completed:Failed:]_block_invoke.267:HttpApi.m">
+      </ContextState>
+      <ContextState
+         contextName = "__24-[QuickmealsRVC getData]_block_invoke:QuickmealsRVC.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[RFoodDetailVC setLayout:]:RFoodDetailVC.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[HttpApi imagePost:Completed:Failed:]:HttpApi.m">
+      </ContextState>
+      <ContextState
+         contextName = "__55-[HttpApi getAdminQuickFoodsByRestId:Completed:Failed:]_block_invoke.187:HttpApi.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[RRFoodTVCell setLayout:]:RRFoodTVCell.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[Restaurant initWithDictionary:]:Restaurant.m">
+      </ContextState>
+      <ContextState
+         contextName = "__50-[HttpApi getAdminFoodsByRestId:Completed:Failed:]_block_invoke.178:HttpApi.m">
+      </ContextState>
+      <ContextState
+         contextName = "__38-[HttpApi imagePost:Completed:Failed:]_block_invoke.248:HttpApi.m">
+      </ContextState>
+      <ContextState
+         contextName = "__24-[RestaurantRVC getData]_block_invoke:RestaurantRVC.m">
+      </ContextState>
+      <ContextState
+         contextName = "__38-[HttpApi imagePost:Completed:Failed:]_block_invoke.242:HttpApi.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[RRFoodTVCell setLayout]:RRFoodTVCell.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[RestaurantRVC tableView:cellForRowAtIndexPath:]:RestaurantRVC.m">
+      </ContextState>
+      <ContextState
+         contextName = "__42-[HttpApi restImagePost:Completed:Failed:]_block_invoke.280:HttpApi.m">
+      </ContextState>
+      <ContextState
+         contextName = "__38-[HttpApi imagePost:Completed:Failed:]_block_invoke.246:HttpApi.m">
+      </ContextState>
+      <ContextState
+         contextName = "__55-[HttpApi getAdminQuickFoodsByRestId:Completed:Failed:]_block_invoke:HttpApi.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ProfileRVC setLayout:]:ProfileRVC.m">
+      </ContextState>
+      <ContextState
+         contextName = "__22-[Login onLoginClick:]_block_invoke_3:Login.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[RRFoodTVCell convertHTML:]:RRFoodTVCell.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[RestaurantRVC setLayout]:RestaurantRVC.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[Food initWithDictionary:]:Food.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[HttpApi restImagePost:id:Completed:Failed:]:HttpApi.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "(__NSCFString *)urlStr">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

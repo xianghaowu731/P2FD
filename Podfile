@@ -1,0 +1,25 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+target 'Food' do
+pod 'AFNetworking', '~> 2.0'
+pod 'PEPhotoCropEditor'
+pod 'SDWebImage'
+pod 'SVProgressHUD'
+pod 'TPKeyboardAvoiding'
+pod 'FMDB'
+pod 'DLRadioButton', '~> 1.4'
+pod 'FYComboBox'
+pod 'DownPicker'
+pod 'BEMCheckBox'
+pod 'Google/SignIn'
+pod 'FBSDKCoreKit'
+pod 'FBSDKLoginKit'
+pod 'SLExpandableTableView', '~> 1.3'
+pod 'RATreeView'
+pod 'HNKGooglePlacesAutocomplete', '~> 1.1'
+pod 'OneSignal', '>= 2.5.2', '< 3.0'
+pod 'DXPopover'
+pod 'Stripe'
+pod 'IQKeyboardManager'
+
+end
